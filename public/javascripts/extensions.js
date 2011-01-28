@@ -18,7 +18,7 @@
 				},
 
 				blur: function(){
-					if (this.get('value') === ''){
+					if (this.get('value').trim() === ''){
 						this.set('value', this.get(fromAttr)).addClass('placeholder');
 					}
 				}
