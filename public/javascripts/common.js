@@ -1,3 +1,12 @@
+/*!
+
+ {description}
+
+ @version	1.0
+ @author	Oskar Krawczyk (thereis@nouincolor.com)
+
+*/
+
 (function(){
 
 	var Common = this.Common = new Class({

@@ -1,3 +1,12 @@
+/*!
+
+ Common object extensions
+
+ @version	1.0
+ @author	Oskar Krawczyk (thereis@nouincolor.com)
+
+*/
+
 (function(){
 
 	Window.implement({
@@ -9,6 +18,7 @@
 	});
 	
 	Elements.implement({
+		
 		placeholder: function(fromAttr){
 			var events = {
 				focus: function(){
