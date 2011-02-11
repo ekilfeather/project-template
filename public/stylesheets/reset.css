@@ -22,6 +22,11 @@ img {
 	border: none;
 }
 
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
 table, td, tr, th, tbody, thead {
 	border: none;
 	padding: 0;

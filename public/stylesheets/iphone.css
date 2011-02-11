@@ -3,6 +3,10 @@ body {
 	-webkit-text-stroke: 0px transparent;
 }
 
+a {
+	-webkit-tap-highlight-color: #fff;
+}
+
 input {
 	-webkit-appearance: none;
 }
