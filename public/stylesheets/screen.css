@@ -1,3 +1,7 @@
 body {
 	
 }
+
+#ie-message {
+	display: none;
+}
